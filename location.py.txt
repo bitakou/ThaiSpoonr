@@ -1,0 +1,11 @@
+class Location(object):
+    
+	def __init__(self,province,district,road,house_num):
+        
+		self.province=province
+        
+		self.district=district
+        
+		self.road=road
+        
+		self.house_num=house_num
