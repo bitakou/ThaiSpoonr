@@ -1,0 +1,14 @@
+import math
+
+class Restaurant(object):
+
+
+def __init__(self,Restaurant_ID,Restaurant_name,Restaurant_Contact,Restaurant_star):
+
+        self.Restaurant_ID = Restaurant_ID
+
+        self.Restaurant_name = Restaurant_name
+
+        self.Restaurant_Contact = Restaurant_Contact
+
+        self.Restaurant_star = Restaurant_star
